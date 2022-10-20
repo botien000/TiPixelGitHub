@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Enemy
+  - Fruit
+  - Foot
+  - FirePlayer
+  - Wall
+  - Conduit
+  - Trap
+  - End
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Stand
+  - Water
+  - UI
+  - Ground
+  - Player
+  - Enemy
+  - Fruit
+  - Foot
+  - Conduit
+  - Wall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 830048183
+    locked: 0
+  - name: Player
+    uniqueID: 3824664539
+    locked: 0
+  - name: Terrain
+    uniqueID: 3317496253
+    locked: 0
+  - name: Fruit
+    uniqueID: 3439144131
+    locked: 0
+  - name: Enemy
+    uniqueID: 1226399335
+    locked: 0
+  - name: Conduit
+    uniqueID: 3776219059
+    locked: 0
+  - name: CameraUI
+    uniqueID: 271552489
+    locked: 0
