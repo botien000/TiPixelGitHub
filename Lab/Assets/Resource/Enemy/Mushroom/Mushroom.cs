@@ -80,7 +80,7 @@ public class Mushroom : MonoBehaviour
         Vector2 toHor = fromHor;
         toHor.x += 0.5f;
         if ((!Physics2D.Linecast(from, to, wallMask) && !Physics2D.Linecast(from, to, groundMask)) || Physics2D.Linecast(fromHor, toHor, wallMask))
-        {
+        {        
             return true;
         }
         return false;
